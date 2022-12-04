@@ -1,6 +1,6 @@
 # DQLab Bootcamp: Data Analyst with Python and MySQL
 
-This repository contains my data analytics learning journey with Python and MysQL via [DQLab](https://dqlab.id/) Bootcamp in November-December 2022.
+This repository contains my data analytics learning journey with Python and MysQL via [DQLab](https://dqlab.id/) Bootcamp in November - December 2022.
 
 ## Fundamental SQL for Data Analytics
 1. [Creating Database and Table](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-01-create-db-and-tables.sql)
@@ -17,4 +17,12 @@ This repository contains my data analytics learning journey with Python and MysQ
 12. [JOIN and UNION](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-12-join-and-union.sql)
 13. [COALESCE Function to Substitue NULL](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-13-substitue-null-with-coalesce.sql)
 14. [CASE.. WHEN.. Statement](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-14-case-when.sql)
-15. [Quiz](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-15-quiz.sql) 
+15. [Quiz](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/295981354876ee9802e9c8844704e7d3f3bc567d/MySQL-Scripts/dqlabmartbasic-15-quiz.sql)
+
+## Basic Python
+1. [Variable, I/O, and Data Types](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/06.variable-io-and-data-types.ipynb)
+2. [Loop and Condition](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/07.loop-and-condition.ipynb)
+3. [List](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/08.list.ipynb)
+4. [Dictionary](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/09.dictionary.ipynb)
+5. [Functions](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/10.functions.ipynb)
+6. [Class and Object](https://github.com/dhedestia/DQLab-Bootcamp-Data-Analyst-with-Python-and-MySQL/blob/f3dd794424f87ce4d46cd9477aabfb29f1e7d6af/Basic-Python/11.class-and-object.ipynb)
